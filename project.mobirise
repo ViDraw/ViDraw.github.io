@@ -1,0 +1,756 @@
+{
+  "settings": {
+    "currentPage": "Pakiety firmowe.html",
+    "theme": {
+      "name": "purity",
+      "title": "PurityM",
+      "styling": {},
+      "titlePreset": "Virtual Revolution",
+      "nameSelectPreset": "article",
+      "additionalSetColors": [
+        "#4f4f4f",
+        "#3c3c3c",
+        "#e3e0e0"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "name": "ViDraw",
+    "versionFirst": "4.12.2",
+    "siteFonts": [],
+    "imageResize": true,
+    "uniqCompNum": 28,
+    "versionPublish": "4.12.2",
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/untitled-128x122.png",
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": {
+      "customDialogSelector": false,
+      "colorText": "#000000",
+      "colorBg": "#ffffff",
+      "colorButton": "#000000",
+      "colorLink": "#000000",
+      "underlineLink": true,
+      "opacity": "99",
+      "opacityOverlay": "80",
+      "text": "W celu poprawy jakości naszych usług, stosujemy na tej stronie pliki cookies. Więcej szczegółów na ten temat znajdziesz na stronie <a href=’polityka.html’>Polityka Prywatności</a>.",
+      "textButton": "Akceptuje"
+    },
+    "gdpr": {
+      "colorText": "#a7a7a7",
+      "colorLink": "#149dcc",
+      "underlineLink": false,
+      "text": "Aby kontynuować, musisz zgodzić się z warunkami naszego <a href=’regulamin.html’>Regulaminu</a> oraz <a href=’polityka.html’>Polityką Prywatności</a>."
+    }
+  },
+  "pages": {
+    "Kontakt.html": {
+      "settings": {
+        "title": "Kontakt",
+        "order": 3
+      },
+      "components": [
+        {
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": false,
+            "collapsed": true,
+            "transparent": true,
+            "color": "#5bc0de",
+            "hamburgerColor": "#000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Strona Główna.html\">Strona Główna</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"O nas.html\">O nas</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Kontakt.html\">Kontakt</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Pakiety firmowe.html\">Pakiety firmowe</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/iconfinder-facebook-circle-color-107175-128x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://www.facebook.com/ViDraw-103846864540692/",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "home",
+              "family": "MobiriseIcons",
+              "link": "https://www.facebook.com/ViDraw-103846864540692/",
+              "size": 0,
+              "newWindow": true
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000"
+            },
+            ".nav-link": {
+              "font-size": "24px"
+            }
+          },
+          "_anchor": "menu-k"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Skontaktuj się z nami",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Wyślij</a>",
+          "form": {
+            "action": "bobek220@gmail.com",
+            "alerts": {
+              "success": "Dziękujemy za wiadomość,odpowiemy jak najszybciej."
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Imię*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Wiadomość"
+              }
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-l"
+        }
+      ]
+    },
+    "O nas.html": {
+      "settings": {
+        "title": "O nas",
+        "order": 5,
+        "meta_descr": ""
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/logo%20vidraw%20black-2000x1400.png",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.7
+          },
+          "title": "Czym się zajmujemy:",
+          "caption": "<p>Realizujemy bardzo różne zlecenia począwszy od Brandingu(logo,ulotki,plakaty,vouchery,wizytówki,zaproszenia,itp) do Web'u(grafiki social media,bannerów,prowadzenia profili social media,etc).Zajmiemy się każdym projektem,wykazujemy się bardzo dużą kreatywnością.Jesteśmy pewni,że logo twojej firmy przyciągnie uwagę a wizytówka zachęci nowych klientów.</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-d"
+        },
+        {
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": false,
+            "collapsed": true,
+            "transparent": true,
+            "color": "#5bc0de",
+            "hamburgerColor": "#000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Strona Główna.html\">Strona Główna</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"O nas.html\">O nas</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Kontakt.html\">Kontakt</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Pakiety firmowe.html\">Pakiety firmowe</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/iconfinder-facebook-circle-color-107175-128x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://www.facebook.com/ViDraw-103846864540692/",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "home",
+              "family": "MobiriseIcons",
+              "link": "https://www.facebook.com/ViDraw-103846864540692/",
+              "size": 0,
+              "newWindow": true
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-g",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000"
+            },
+            ".nav-link": {
+              "font-size": "24px"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/poprawiona-820x360.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Pakiety firmowe",
+          "text": "<p>Już teraz sprawdź nasze pakiety firmowe</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"Pakiety firmowe.html\" data-toolbar=\"-mbrBtnMove\">Więcej</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-q"
+        }
+      ]
+    },
+    "Regulamin.html": {
+      "settings": {
+        "title": "Regulamin",
+        "order": 2,
+        "meta_descr": "Regulamin ViDraw"
+      },
+      "components": [
+        {
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": false,
+            "collapsed": true,
+            "transparent": true,
+            "color": "#5bc0de",
+            "hamburgerColor": "#000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Strona Główna.html\">Strona Główna</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"O nas.html\">O nas</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Kontakt.html\">Kontakt</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Pakiety firmowe.html\">Pakiety firmowe</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/iconfinder-facebook-circle-color-107175-128x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://www.facebook.com/ViDraw-103846864540692/",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "home",
+              "family": "MobiriseIcons",
+              "link": "https://www.facebook.com/ViDraw-103846864540692/",
+              "size": 0,
+              "newWindow": true
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000"
+            },
+            ".nav-link": {
+              "font-size": "24px"
+            }
+          },
+          "_anchor": "menu-m"
+        }
+      ]
+    },
+    "Polityka Prywatności.html": {
+      "settings": {
+        "title": "Polityka Prywatności",
+        "order": 1
+      },
+      "components": [
+        {
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": false,
+            "collapsed": true,
+            "transparent": true,
+            "color": "#5bc0de",
+            "hamburgerColor": "#000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Strona Główna.html\">Strona Główna</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"O nas.html\">O nas</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Kontakt.html\">Kontakt</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Pakiety firmowe.html\">Pakiety firmowe</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/iconfinder-facebook-circle-color-107175-128x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://www.facebook.com/ViDraw-103846864540692/",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "home",
+              "family": "MobiriseIcons",
+              "link": "https://www.facebook.com/ViDraw-103846864540692/",
+              "size": 0,
+              "newWindow": true
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000"
+            },
+            ".nav-link": {
+              "font-size": "24px"
+            }
+          },
+          "_anchor": "menu-n"
+        },
+        {
+          "text": "<p>Pliki cookies\n</p><p>Witryna estartupy.pl używa cookies. Są to niewielkie pliki tekstowe wysyłane przez serwer www i przechowywane przez oprogramowanie komputera przeglądarki. Kiedy przeglądarka ponownie połączy się ze stroną, witryna rozpoznaje rodzaj urządzenia, z którego łączy się użytkownik. Parametry pozwalają na odczytanie informacji w nich zawartych jedynie serwerowi, który je utworzył. Cookies ułatwiają więc korzystanie z wcześniej odwiedzonych witryn.Gromadzone informacje dotyczą adresu IP, typu wykorzystywanej przeglądarki, języka, rodzaju systemu operacyjnego, dostawcy usług internetowych, informacji o czasie i dacie, lokalizacji oraz informacji przesyłanych do witryny za pośrednictwem formularza kontaktowego.\n</p><p>Zebrane dane służą do monitorowania i sprawdzenia, w jaki sposób użytkownicy korzystają z naszych witryn, aby usprawniać funkcjonowanie serwisu zapewniając bardziej efektywną i bezproblemową nawigację. Monitorowania informacji o użytkownikach dokonujemy korzystając z narzędzia Google Analytics, które rejestruje zachowanie użytkownika na stronie.Cookies identyfikuje użytkownika, co pozwala na dopasowanie treści witryny, z której korzysta, do jego potrzeb. Zapamiętując jego preferencje, umożliwia odpowiednie dopasowanie skierowanych do niego reklam. Stosujemy pliki cookies, aby zagwarantować najwyższy standard wygody naszego serwisu, a zebrane dane są wykorzystywane jedynie wewnątrz firmy estartupy.pl w celu optymalizacji działań.\n</p><p>Na naszej witrynie wykorzystujemy następujące pliki cookies:\n</p><p>„niezbędne” pliki cookies, umożliwiające korzystanie z usług dostępnych w ramach serwisu, np. uwierzytelniające pliki cookies wykorzystywane do usług wymagających uwierzytelniania w ramach serwisu;\n</p><p>pliki cookies służące do zapewnienia bezpieczeństwa, np. wykorzystywane do wykrywania nadużyć w zakresie uwierzytelniania w ramach serwisu;\n</p><p>„wydajnościowe” pliki cookies, umożliwiające zbieranie informacji o sposobie korzystania ze stron internetowych serwisu;\n</p><p>„funkcjonalne” pliki cookies, umożliwiające „zapamiętanie” wybranych przez użytkownika ustawień i personalizację interfejsu użytkownika, np. w zakresie wybranego języka lub regionu, z którego pochodzi użytkownik, rozmiaru czcionki, wyglądu strony internetowej itp.;\n</p><p>„reklamowe” pliki cookies, umożliwiające dostarczanie użytkownikom treści reklamowych bardziej dostosowanych do ich zainteresowań.\n</p><p>Użytkownik w każdej chwili ma możliwość wyłączenia lub przywrócenia opcji gromadzenia cookies poprzez zmianę ustawień w przeglądarce internetowej. Instrukcja zarządzania plikami cookies jest dostępna na stronie: http://www.allaboutcookies.org/manage-cookies. Dodatkowe dane osobowe, jak adres e-mail, zbierane są jedynie w miejscach, w których użytkownik wypełniając formularz wyraźnie wyraził na to zgodę. Powyższe dane zachowujemy i wykorzystujemy tylko do potrzeb niezbędnych do wykonania danej funkcji.</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-r"
+        }
+      ]
+    },
+    "Pakiety firmowe.html": {
+      "settings": {
+        "title": "Pakiety firmowe",
+        "order": 4
+      },
+      "components": [
+        {
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": false,
+            "collapsed": true,
+            "transparent": true,
+            "color": "#5bc0de",
+            "hamburgerColor": "#000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Strona Główna.html\">Strona Główna</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"O nas.html\">O nas</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Kontakt.html\">Kontakt</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Pakiety firmowe.html\">Pakiety firmowe</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/iconfinder-facebook-circle-color-107175-128x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://www.facebook.com/ViDraw-103846864540692/",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "home",
+              "family": "MobiriseIcons",
+              "link": "https://www.facebook.com/ViDraw-103846864540692/",
+              "size": 0,
+              "newWindow": true
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000"
+            },
+            ".nav-link": {
+              "font-size": "24px"
+            }
+          },
+          "_anchor": "menu-h"
+        },
+        {
+          "_params": {
+            "firstType": "bg-success",
+            "secondType": "bg-warning",
+            "thirdType": "bg-danger",
+            "fourthType": "bg-primary",
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "showButtons": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title1": "Logo&nbsp;",
+          "title2": "Pakiet Mini<br>(logo,wizytówka)",
+          "title3": "Pakiet Premium<br>(logo,wizytówka,ulotka)",
+          "title4": "Prowadzenie Social Media<br>(facebook,instagram)<br><br>",
+          "currency1": "$",
+          "currency2": "$",
+          "currency3": "$",
+          "currency4": "$",
+          "price1": "<a href=\"Kontakt.html\">Zapytaj</a>",
+          "price2": "<a href=\"Kontakt.html\">Zapytaj</a>",
+          "price3": "<a href=\"Kontakt.html\">Zapytaj</a>",
+          "price4": "<a href=\"Kontakt.html\">Zapytaj</a>",
+          "period1": "",
+          "period2": "",
+          "period3": "",
+          "period4": "",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>3</b>&nbsp;wersje Logo&nbsp;</li><li class=\"list-group-item\"><b>5 </b>poprawek w cenie</li><li class=\"list-group-item\"><b>pakiet finalny plików </b>pdf, eps, tif, jpg, png</li></ul>",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>3 </b>wersje Logo<b>+ 3 </b>wersje wizytówki&nbsp;</li><li class=\"list-group-item\"><b>10&nbsp;</b>poprawek w cenie</li><li class=\"list-group-item\"><b>pakiet finalny plików </b>pdf, eps, tif, jpg, png</li></ul>",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>3 </b>wersje Logo<b>+ 3 </b>wersje wizytówki<b>+3 </b>wersje ulotki</li><li class=\"list-group-item\"><b>12 </b>poprawek w cenie</li><li class=\"list-group-item\"><b>pakiet finalny plików </b>pdf, eps, tif, jpg, png</li></ul>",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>20 </b>postów z grafiką</li><li class=\"list-group-item\"><b>10 </b>postów story instagram</li><li class=\"list-group-item\"><b style=\"font-size: 1rem;\">Gratis 10 postów facebook</b></li><li class=\"list-group-item\"><b style=\"font-size: 1rem;\"><br></b><br></li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"Kontakt.html\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Dowiedz się więcej</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"Kontakt.html\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Dowiedz się więcej</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"Kontakt.html\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Dowiedz się więcej</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"Kontakt.html\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Dowiedz się więcej</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table1",
+          "_anchor": "pricing-table1-i",
+          "_styles": {
+            "SPAN": {
+              "text-align": "left",
+              "font-size": "36px"
+            },
+            "DIV": {
+              "text-align": "center"
+            }
+          }
+        }
+      ]
+    },
+    "Strona Główna.html": {
+      "settings": {
+        "main": true,
+        "title": "Strona Główna",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/desktop-computer-beside-analog-camera-3759101-2000x994.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff8e0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": 0.5
+          },
+          "title": "ViDraw",
+          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Learn More</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-3",
+          "_styles": {
+            "H1": {
+              "color": "#000000",
+              "text-align": "center",
+              "font-size": "100px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            "B": {
+              "font-size": "80px",
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/vi-draw-logo-1400x974.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Czym się zajmujemy:",
+          "text": "<p>Realizujemy bardzo różne zlecenia począwszy od Brandingu do Web'u.</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"O nas.html\" data-toolbar=\"-mbrBtnMove\">Więcej</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-9"
+        },
+        {
+          "_params": {
+            "showBullets": true,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgColor": "#efefef",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/jenniferki-logo-2000x1500.png",
+                "thumb": "@PROJECT_PATH@/assets/images/jenniferki-logo-2000x1500-800x600.png",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/jo-1920x1080.png",
+                "thumb": "@PROJECT_PATH@/assets/images/jo-1920x1080-800x450.png",
+                "alt": "",
+                "title": "",
+                "active": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/4d586c92579779.5e4e93f441958-2000x2000.png",
+                "thumb": "@PROJECT_PATH@/assets/images/4d586c92579779.5e4e93f441958-2000x2000-800x800.png",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/fc3dd492577821.5e4e8b2420707-1400x1314.png",
+                "thumb": "@PROJECT_PATH@/assets/images/fc3dd492577821.5e4e8b2420707-1400x1314-800x751.png",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/93f1a792579803.5e4e940f3182e-2000x1400.png",
+                "thumb": "@PROJECT_PATH@/assets/images/93f1a792579803.5e4e940f3182e-2000x1400-800x560.png",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dd0f7592579269.5e4e918db517a-2000x1500.png",
+                "thumb": "@PROJECT_PATH@/assets/images/dd0f7592579269.5e4e918db517a-2000x1500-800x600.png",
+                "alt": "",
+                "title": "",
+                "active": false
+              }
+            ]
+          },
+          "articleLayout": false,
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-0"
+        },
+        {
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": false,
+            "collapsed": true,
+            "transparent": true,
+            "color": "#5bc0de",
+            "hamburgerColor": "#000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Strona Główna.html\">Strona Główna</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"O nas.html\">O nas</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Kontakt.html\">Kontakt</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Pakiety firmowe.html\">Pakiety firmowe</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/iconfinder-facebook-circle-color-107175-128x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://www.facebook.com/ViDraw-103846864540692/",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "home",
+              "family": "MobiriseIcons",
+              "link": "https://www.facebook.com/ViDraw-103846864540692/",
+              "size": 0,
+              "newWindow": true
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-g",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000"
+            },
+            ".nav-link": {
+              "font-size": "24px"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

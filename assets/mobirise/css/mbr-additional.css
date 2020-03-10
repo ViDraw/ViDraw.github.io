@@ -1,0 +1,57 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
+#menu-k .navbar-toggler {
+  color: #000;
+}
+#menu-k .nav-link {
+  font-size: 24px;
+}
+#menu-g .navbar-toggler {
+  color: #000;
+}
+#menu-g .nav-link {
+  font-size: 24px;
+}
+#menu-m .navbar-toggler {
+  color: #000;
+}
+#menu-m .nav-link {
+  font-size: 24px;
+}
+#menu-n .navbar-toggler {
+  color: #000;
+}
+#menu-n .nav-link {
+  font-size: 24px;
+}
+#menu-h .navbar-toggler {
+  color: #000;
+}
+#menu-h .nav-link {
+  font-size: 24px;
+}
+#pricing-table1-i SPAN {
+  text-align: left;
+  font-size: 36px;
+}
+#pricing-table1-i DIV {
+  text-align: center;
+}
+
+
+#header1-3 H1 {
+  color: #000000;
+  text-align: center;
+  font-size: 100px;
+  font-family: 'Open Sans', sans-serif;
+}
+#header1-3 B {
+  font-size: 80px;
+  font-family: 'Ubuntu', sans-serif;
+}
+#menu-g .navbar-toggler {
+  color: #000;
+}
+#menu-g .nav-link {
+  font-size: 24px;
+}
