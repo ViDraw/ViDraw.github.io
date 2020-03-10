@@ -1,10 +1,14 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 #menu-k .navbar-toggler {
   color: #000;
 }
 #menu-k .nav-link {
   font-size: 24px;
+}
+#footer1-y P {
+  text-align: center;
 }
 #menu-g .navbar-toggler {
   color: #000;
@@ -12,17 +16,8 @@
 #menu-g .nav-link {
   font-size: 24px;
 }
-#menu-m .navbar-toggler {
-  color: #000;
-}
-#menu-m .nav-link {
-  font-size: 24px;
-}
-#menu-n .navbar-toggler {
-  color: #000;
-}
-#menu-n .nav-link {
-  font-size: 24px;
+#footer1-y P {
+  text-align: center;
 }
 #menu-h .navbar-toggler {
   color: #000;
@@ -37,6 +32,9 @@
 #pricing-table1-i DIV {
   text-align: center;
 }
+#footer1-y P {
+  text-align: center;
+}
 
 
 #header1-3 H1 {
@@ -49,9 +47,63 @@
   font-size: 80px;
   font-family: 'Ubuntu', sans-serif;
 }
+#footer1-y P {
+  text-align: center;
+}
 #menu-g .navbar-toggler {
   color: #000;
 }
 #menu-g .nav-link {
   font-size: 24px;
+}
+
+#menu-n .navbar-toggler {
+  color: #000;
+}
+#menu-n .nav-link {
+  font-size: 24px;
+}
+#content1-r P {
+  font-size: 24px;
+  font-family: 'Oxygen', sans-serif;
+  text-align: center;
+}
+#footer1-y P {
+  text-align: center;
+}
+
+#menu-m .navbar-toggler {
+  color: #000;
+}
+#menu-m .nav-link {
+  font-size: 24px;
+}
+#content1-x P {
+  font-size: 24px;
+  font-family: 'Oxygen', sans-serif;
+  text-align: center;
+}
+#footer1-y P {
+  text-align: center;
+}
+
+
+#header1-t H1 {
+  color: #000000;
+  text-align: center;
+  font-size: 100px;
+  font-family: 'Open Sans', sans-serif;
+}
+#header1-t B {
+  font-size: 80px;
+  font-family: 'Ubuntu', sans-serif;
+}
+#menu-w .navbar-toggler {
+  color: #000;
+}
+#menu-w .nav-link {
+  font-size: 24px;
+}
+#footer1-y P {
+  text-align: center;
 }

@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Pakiety firmowe.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -18,7 +18,7 @@
     "versionFirst": "4.12.2",
     "siteFonts": [],
     "imageResize": true,
-    "uniqCompNum": 29,
+    "uniqCompNum": 35,
     "versionPublish": "4.12.2",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/untitled-128x122.png",
@@ -35,14 +35,14 @@
       "underlineLink": true,
       "opacity": "99",
       "opacityOverlay": "80",
-      "text": "W celu poprawy jakości naszych usług, stosujemy na tej stronie pliki cookies. Więcej szczegółów na ten temat znajdziesz na stronie <a href=’polityka.html’>Polityka Prywatności</a>.",
+      "text": "W celu poprawy jakości naszych usług, stosujemy na tej stronie pliki cookies. Więcej szczegółów na ten temat znajdziesz na stronie\n<a href='polityka.html'>polityka prywatności</a>",
       "textButton": "Akceptuje"
     },
     "gdpr": {
       "colorText": "#a7a7a7",
-      "colorLink": "#149dcc",
+      "colorLink": "#5bc0de",
       "underlineLink": false,
-      "text": "Aby kontynuować, musisz zgodzić się z warunkami naszego <a href=’regulamin.html’>Regulaminu</a> oraz <a href=’polityka.html’>Polityką Prywatności</a>."
+      "text": "Aby kontynuować, musisz zgodzić się z warunkami naszego <a href='regulamin.html'>regulaminu</a> oraz <a href='polityka.html'>polityką prywatności</a>"
     }
   },
   "pages": {
@@ -63,7 +63,7 @@
             "color": "#5bc0de",
             "hamburgerColor": "#000"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Strona Główna</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"O nas.html\">O nas</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Kontakt.html\">Kontakt</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Pakiety firmowe.html\">Pakiety firmowe</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Strona Główna.html\">Strona Główna</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"O nas.html\">O nas</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Kontakt.html\">Kontakt</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Pakiety firmowe.html\">Pakiety firmowe</a></li>",
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
           "logo": {
             "image": {
@@ -149,6 +149,32 @@
           ],
           "_name": "form1",
           "_anchor": "form1-l"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#26272c",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright © ViDraw 2020. All Rights Reserved. |&nbsp;<a href=\"regulamin.html\">Regulamin </a> | <a href=\"polityka.html\">Polityka prywatności</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-y",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          }
         }
       ]
     },
@@ -179,7 +205,7 @@
             "overlayOpacity": 0.7
           },
           "title": "Czym się zajmujemy:",
-          "caption": "<p>Realizujemy bardzo różne zlecenia począwszy od Brandingu(logo,ulotki,plakaty,vouchery,wizytówki,zaproszenia,itp) do Web'u(grafiki social media,bannerów,prowadzenia profili social media,etc).Zajmiemy się każdym projektem,wykazujemy się bardzo dużą kreatywnością.Jesteśmy pewni,że logo twojej firmy przyciągnie uwagę a wizytówka zachęci nowych klientów.</p>",
+          "caption": "<p>Realizujemy bardzo różne zlecenia począwszy od Brandingu(logo,ulotki,plakaty,vouchery,wizytówki,zaproszenia,itp) do Web'u(grafiki social media,bannerów,prowadzenia profili social media,etc).Do każdego zlecenia podchodzimy indywidualnie,zrealizujemy twoją wizję,a jeśli jej nie masz to ją stworzymy.</p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -198,7 +224,7 @@
             "color": "#5bc0de",
             "hamburgerColor": "#000"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Strona Główna</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"O nas.html\">O nas</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Kontakt.html\">Kontakt</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Pakiety firmowe.html\">Pakiety firmowe</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Strona Główna.html\">Strona Główna</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"O nas.html\">O nas</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Kontakt.html\">Kontakt</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Pakiety firmowe.html\">Pakiety firmowe</a></li>",
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
           "logo": {
             "image": {
@@ -290,128 +316,32 @@
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"Pakiety firmowe.html\" data-toolbar=\"-mbrBtnMove\">Więcej</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-q"
-        }
-      ]
-    },
-    "Regulamin.html": {
-      "settings": {
-        "title": "Regulamin",
-        "order": 3,
-        "meta_descr": "Regulamin ViDraw"
-      },
-      "components": [
-        {
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "showButtons": false,
-            "sticky": false,
-            "collapsed": true,
-            "transparent": true,
-            "color": "#5bc0de",
-            "hamburgerColor": "#000"
-          },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Strona Główna</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"O nas.html\">O nas</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Kontakt.html\">Kontakt</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Pakiety firmowe.html\">Pakiety firmowe</a></li>",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/iconfinder-facebook-circle-color-107175-128x128.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://www.facebook.com/ViDraw-103846864540692/",
-              "title": ""
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "linkInNewWindow": false,
-              "name": "home",
-              "family": "MobiriseIcons",
-              "link": "https://www.facebook.com/ViDraw-103846864540692/",
-              "size": 0,
-              "newWindow": true
-            }
-          },
-          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_styles": {
-            ".navbar-toggler": {
-              "color": "#000"
-            },
-            ".nav-link": {
-              "font-size": "24px"
-            }
-          },
-          "_anchor": "menu-m"
-        }
-      ]
-    },
-    "Polityka Prywatności.html": {
-      "settings": {
-        "title": "Polityka Prywatności",
-        "order": 2
-      },
-      "components": [
-        {
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "showButtons": false,
-            "sticky": false,
-            "collapsed": true,
-            "transparent": true,
-            "color": "#5bc0de",
-            "hamburgerColor": "#000"
-          },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Strona Główna</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"O nas.html\">O nas</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Kontakt.html\">Kontakt</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Pakiety firmowe.html\">Pakiety firmowe</a></li>",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/iconfinder-facebook-circle-color-107175-128x128.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://www.facebook.com/ViDraw-103846864540692/",
-              "title": ""
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "linkInNewWindow": false,
-              "name": "home",
-              "family": "MobiriseIcons",
-              "link": "https://www.facebook.com/ViDraw-103846864540692/",
-              "size": 0,
-              "newWindow": true
-            }
-          },
-          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_styles": {
-            ".navbar-toggler": {
-              "color": "#000"
-            },
-            ".nav-link": {
-              "font-size": "24px"
-            }
-          },
-          "_anchor": "menu-n"
         },
         {
-          "text": "<p>Pliki cookies\n</p><p>Witryna estartupy.pl używa cookies. Są to niewielkie pliki tekstowe wysyłane przez serwer www i przechowywane przez oprogramowanie komputera przeglądarki. Kiedy przeglądarka ponownie połączy się ze stroną, witryna rozpoznaje rodzaj urządzenia, z którego łączy się użytkownik. Parametry pozwalają na odczytanie informacji w nich zawartych jedynie serwerowi, który je utworzył. Cookies ułatwiają więc korzystanie z wcześniej odwiedzonych witryn.Gromadzone informacje dotyczą adresu IP, typu wykorzystywanej przeglądarki, języka, rodzaju systemu operacyjnego, dostawcy usług internetowych, informacji o czasie i dacie, lokalizacji oraz informacji przesyłanych do witryny za pośrednictwem formularza kontaktowego.\n</p><p>Zebrane dane służą do monitorowania i sprawdzenia, w jaki sposób użytkownicy korzystają z naszych witryn, aby usprawniać funkcjonowanie serwisu zapewniając bardziej efektywną i bezproblemową nawigację. Monitorowania informacji o użytkownikach dokonujemy korzystając z narzędzia Google Analytics, które rejestruje zachowanie użytkownika na stronie.Cookies identyfikuje użytkownika, co pozwala na dopasowanie treści witryny, z której korzysta, do jego potrzeb. Zapamiętując jego preferencje, umożliwia odpowiednie dopasowanie skierowanych do niego reklam. Stosujemy pliki cookies, aby zagwarantować najwyższy standard wygody naszego serwisu, a zebrane dane są wykorzystywane jedynie wewnątrz firmy estartupy.pl w celu optymalizacji działań.\n</p><p>Na naszej witrynie wykorzystujemy następujące pliki cookies:\n</p><p>„niezbędne” pliki cookies, umożliwiające korzystanie z usług dostępnych w ramach serwisu, np. uwierzytelniające pliki cookies wykorzystywane do usług wymagających uwierzytelniania w ramach serwisu;\n</p><p>pliki cookies służące do zapewnienia bezpieczeństwa, np. wykorzystywane do wykrywania nadużyć w zakresie uwierzytelniania w ramach serwisu;\n</p><p>„wydajnościowe” pliki cookies, umożliwiające zbieranie informacji o sposobie korzystania ze stron internetowych serwisu;\n</p><p>„funkcjonalne” pliki cookies, umożliwiające „zapamiętanie” wybranych przez użytkownika ustawień i personalizację interfejsu użytkownika, np. w zakresie wybranego języka lub regionu, z którego pochodzi użytkownik, rozmiaru czcionki, wyglądu strony internetowej itp.;\n</p><p>„reklamowe” pliki cookies, umożliwiające dostarczanie użytkownikom treści reklamowych bardziej dostosowanych do ich zainteresowań.\n</p><p>Użytkownik w każdej chwili ma możliwość wyłączenia lub przywrócenia opcji gromadzenia cookies poprzez zmianę ustawień w przeglądarce internetowej. Instrukcja zarządzania plikami cookies jest dostępna na stronie: http://www.allaboutcookies.org/manage-cookies. Dodatkowe dane osobowe, jak adres e-mail, zbierane są jedynie w miejscach, w których użytkownik wypełniając formularz wyraźnie wyraził na to zgodę. Powyższe dane zachowujemy i wykorzystujemy tylko do potrzeb niezbędnych do wykonania danej funkcji.</p>",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#26272c",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright © ViDraw 2020. All Rights Reserved. |&nbsp;<a href=\"regulamin.html\">Regulamin </a> | <a href=\"polityka.html\">Polityka prywatności</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
           ],
-          "_name": "content1",
-          "_anchor": "content1-r"
+          "_name": "footer1",
+          "_anchor": "footer1-y",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          }
         }
       ]
     },
@@ -432,7 +362,7 @@
             "color": "#5bc0de",
             "hamburgerColor": "#000"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Strona Główna</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"O nas.html\">O nas</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Kontakt.html\">Kontakt</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Pakiety firmowe.html\">Pakiety firmowe</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Strona Główna.html\">Strona Główna</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"O nas.html\">O nas</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Kontakt.html\">Kontakt</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Pakiety firmowe.html\">Pakiety firmowe</a></li>",
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
           "logo": {
             "image": {
@@ -491,7 +421,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title1": "Logo&nbsp;",
+          "title1": "Pakiet lite<br>(logo,znak wodny)",
           "title2": "Pakiet Mini<br>(logo,wizytówka)",
           "title3": "Pakiet Premium<br>(logo,wizytówka,ulotka)",
           "title4": "Prowadzenie Social Media<br>(facebook,instagram)<br><br>",
@@ -527,6 +457,32 @@
               "font-size": "36px"
             },
             "DIV": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#26272c",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright © ViDraw 2020. All Rights Reserved. |&nbsp;<a href=\"regulamin.html\">Regulamin </a> | <a href=\"polityka.html\">Polityka prywatności</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-y",
+          "_styles": {
+            "P": {
               "text-align": "center"
             }
           }
@@ -704,6 +660,32 @@
         },
         {
           "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#26272c",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright © ViDraw 2020. All Rights Reserved. |&nbsp;<a href=\"regulamin.html\">Regulamin </a> | <a href=\"polityka.html\">Polityka prywatności</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-y",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_params": {
             "logo": true,
             "showBrand": true,
             "showButtons": false,
@@ -713,7 +695,7 @@
             "color": "#5bc0de",
             "hamburgerColor": "#000"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Strona Główna</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"O nas.html\">O nas</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Kontakt.html\">Kontakt</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Pakiety firmowe.html\">Pakiety firmowe</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Strona Główna.html\">Strona Główna</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"O nas.html\">O nas</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Kontakt.html\">Kontakt</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Pakiety firmowe.html\">Pakiety firmowe</a></li>",
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
           "logo": {
             "image": {
@@ -747,6 +729,450 @@
             },
             ".nav-link": {
               "font-size": "24px"
+            }
+          }
+        }
+      ]
+    },
+    "polityka.html": {
+      "settings": {
+        "title": "Polityka Prywatności",
+        "order": 2
+      },
+      "components": [
+        {
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": false,
+            "collapsed": true,
+            "transparent": true,
+            "color": "#5bc0de",
+            "hamburgerColor": "#000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Strona Główna.html\">Strona Główna</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"O nas.html\">O nas</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Kontakt.html\">Kontakt</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Pakiety firmowe.html\">Pakiety firmowe</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/iconfinder-facebook-circle-color-107175-128x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://www.facebook.com/ViDraw-103846864540692/",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "home",
+              "family": "MobiriseIcons",
+              "link": "https://www.facebook.com/ViDraw-103846864540692/",
+              "size": 0,
+              "newWindow": true
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000"
+            },
+            ".nav-link": {
+              "font-size": "24px"
+            }
+          },
+          "_anchor": "menu-n"
+        },
+        {
+          "text": "<p><br></p><p><b>Polityka prywatności</b></p><p>Pliki cookies\n</p><p>Witryna vidraw.github.io używa cookies. Są to niewielkie pliki tekstowe wysyłane przez serwer www i przechowywane przez oprogramowanie komputera przeglądarki. Kiedy przeglądarka ponownie połączy się ze stroną, witryna rozpoznaje rodzaj urządzenia, z którego łączy się użytkownik. Parametry pozwalają na odczytanie informacji w nich zawartych jedynie serwerowi, który je utworzył. Cookies ułatwiają więc korzystanie z wcześniej odwiedzonych witryn.Gromadzone informacje dotyczą adresu IP, typu wykorzystywanej przeglądarki, języka, rodzaju systemu operacyjnego, dostawcy usług internetowych, informacji o czasie i dacie, lokalizacji oraz informacji przesyłanych do witryny za pośrednictwem formularza kontaktowego.\n</p><p>Zebrane dane służą do monitorowania i sprawdzenia, w jaki sposób użytkownicy korzystają z naszych witryn, aby usprawniać funkcjonowanie serwisu zapewniając bardziej efektywną i bezproblemową nawigację. Monitorowania informacji o użytkownikach dokonujemy korzystając z narzędzia Google Analytics, które rejestruje zachowanie użytkownika na stronie.Cookies identyfikuje użytkownika, co pozwala na dopasowanie treści witryny, z której korzysta, do jego potrzeb. Zapamiętując jego preferencje, umożliwia odpowiednie dopasowanie skierowanych do niego reklam. Stosujemy pliki cookies, aby zagwarantować najwyższy standard wygody naszego serwisu, a zebrane dane są wykorzystywane jedynie wewnątrz firmy vidraw.github.io w celu optymalizacji działań.\n</p><p>Na naszej witrynie wykorzystujemy następujące pliki cookies:\n</p><p>„niezbędne” pliki cookies, umożliwiające korzystanie z usług dostępnych w ramach serwisu, np. uwierzytelniające pliki cookies wykorzystywane do usług wymagających uwierzytelniania w ramach serwisu;\n</p><p>pliki cookies służące do zapewnienia bezpieczeństwa, np. wykorzystywane do wykrywania nadużyć w zakresie uwierzytelniania w ramach serwisu;\n</p><p>„wydajnościowe” pliki cookies, umożliwiające zbieranie informacji o sposobie korzystania ze stron internetowych serwisu;\n</p><p>„funkcjonalne” pliki cookies, umożliwiające „zapamiętanie” wybranych przez użytkownika ustawień i personalizację interfejsu użytkownika, np. w zakresie wybranego języka lub regionu, z którego pochodzi użytkownik, rozmiaru czcionki, wyglądu strony internetowej itp.;\n</p><p>„reklamowe” pliki cookies, umożliwiające dostarczanie użytkownikom treści reklamowych bardziej dostosowanych do ich zainteresowań.\n</p><p>Użytkownik w każdej chwili ma możliwość wyłączenia lub przywrócenia opcji gromadzenia cookies poprzez zmianę ustawień w przeglądarce internetowej. Dodatkowe dane osobowe, jak adres e-mail, zbierane są jedynie w miejscach, w których użytkownik wypełniając formularz wyraźnie wyraził na to zgodę. Powyższe dane zachowujemy i wykorzystujemy tylko do potrzeb niezbędnych do wykonania danej funkcji.</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-r",
+          "_styles": {
+            "P": {
+              "font-size": "24px",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#26272c",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright © ViDraw 2020. All Rights Reserved. |&nbsp;<a href=\"regulamin.html\">Regulamin </a> | <a href=\"polityka.html\">Polityka prywatności</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-y",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          }
+        }
+      ]
+    },
+    "regulamin.html": {
+      "settings": {
+        "title": "Regulamin",
+        "order": 3,
+        "meta_descr": "Regulamin ViDraw"
+      },
+      "components": [
+        {
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": false,
+            "collapsed": true,
+            "transparent": true,
+            "color": "#5bc0de",
+            "hamburgerColor": "#000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Strona Główna.html\">Strona Główna</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"O nas.html\">O nas</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Kontakt.html\">Kontakt</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Pakiety firmowe.html\">Pakiety firmowe</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/iconfinder-facebook-circle-color-107175-128x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://www.facebook.com/ViDraw-103846864540692/",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "home",
+              "family": "MobiriseIcons",
+              "link": "https://www.facebook.com/ViDraw-103846864540692/",
+              "size": 0,
+              "newWindow": true
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000"
+            },
+            ".nav-link": {
+              "font-size": "24px"
+            }
+          },
+          "_anchor": "menu-m"
+        },
+        {
+          "text": "<p><b>Regulamin:</b></p><p>§1 Administrator danych osobowych\n</p><p>1. Administratorem danych osobowych w rozumieniu art. 4 pkt 7 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dn. 27.04.2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (RODO) jest ViDraw.</p><p>\n</p><p>2. Dane kontaktowe administratora danych: bobek220@gmail.com</p><p>\n</p><p>3. Administrator w myśl art. 32 ust. 1 RODO przestrzega zasady ochrony danych osobowych oraz stosuje odpowiednie środki techniczne i organizacyjne w celu zapobieżenia przypadkowego lub niezgodnego z prawem zniszczenia, utraty, modyfikacji, nieuprawnionego ujawnienia lub nieuprawnionego dostępu do danych osobowych przetwarzanych w związku z prowadzoną działalnością.\n</p><p>\n</p><p>4. Podanie danych osobowych jest dobrowolne, ale niezbędne w celu nawiązania współpracy i/lub zawarcia umowy z administratorem danych.\n</p><p>\n</p><p>5. Administrator danych przetwarza dane osobowe w postaci danych identyfikacyjnych (imienia i nazwiska oraz nazwy firmy), danych adresowych, numeru identyfikacji podatkowej i innych numerów rejestrowych, danych kontaktowych (adres e-mail, numer telefonu) oraz danych identyfikacyjnych osób wskazanych do kontaktu.\n</p><p>\n</p><p>§2 Cel i podstawy przetwarzania danych osobowych\n</p><p>1. Administrator przetwarza dane osobowe w następujących celach:\n</p><p>\n</p><p>a) przygotowanie oferty handlowej w odpowiedzi na zainteresowanie klienta, co jest prawnie uzasadnionym interesem administratora danych (art. 6 ust. 1 lit. f RODO);\n</p><p>\n</p><p>b) świadczenie usług drogą elektroniczną za pośrednictwem Portalu internetowego, na podstawie zawartej umowy (art. 6 ust. 1 lit. b RODO);\n</p><p>\n</p><p>c) obsługa procesu reklamacyjnego, na podstawie obowiązku ciążącym na administratorze danych w związku z obowiązującymi przepisami prawa (art. 6 ust. 1 lit. c RODO);\n</p><p>\n</p><p>d) rachunkowych związanych z wystawianiem i przyjmowaniem dokumentów rozliczeniowych, na podstawie przepisów prawa podatkowego, w tym ustawy z dn. 29.09.1994 r. o rachunkowości oraz ustawy z dn. 11.03.2004 r. o podatku od towarów i usług (art. 6 ust. 1 lit. c RODO);\n</p><p>\n</p><p>e) archiwizacja danych dla ewentualnego ustalenia, dochodzenia lub obrony przed roszczeniami lub potrzeby wykazania faktów, co jest prawnie uzasadnionym interesem administratora danych (art. 6 ust. 1 lit f RODO);\n</p><p>\n</p><p>f) kontakt telefoniczny lub za pośrednictwem poczty elektronicznej, w szczególności w odpowiedzi na zapytania kierowane do administratora danych, co jest prawnie uzasadnionym interesem administratora danych (art. 6 ust. 1 lit. f RODO);\n</p><p>\n</p><p>g) przesyłanie informacji technicznych dotyczących funkcjonowania Portalu internetowego i usług, z których korzysta klient, co jest prawnie uzasadnionym interesem administratora danych (art. 6 ust. 1 lit. f RODO);\n</p><p>\n</p><p>h) marketing produktów własnych administratora danych, co jest jego prawnie uzasadnionym interesem (art. 6 ust. 1 lit. f RODO) lub odbywa się na podstawie uprzednio udzielonej zgody (art. 6 ust. 1 lit. a RODO).\n</p><p>\n</p><p>2. Dane osobowe podawane w formularzu na stronie: Kontakt &nbsp;są traktowane jako poufne i nie są widoczne dla osób nieuprawnionych.\n</p><p>\n</p><p>3. Wszystkie dane osobowe i  informacje przesyłane w briefiach projektowych objęte są klauzulą poufności i zostaną wykorzystane wyłącznie na potrzeby przygotowania wyceny i projektu. \n</p><p>\n</p><p>§3 Odbiorcy danych\n</p><p>1. Odbiorcami danych osobowych przetwarzanych przez administratora danych mogą być podmioty współpracujące z administratorem danych jeśli jest to niezbędne do realizacji umowy zawartej z osobą, której dane dotyczą.\n</p><p>\n</p><p>2. Odbiorcami danych osobowych przetwarzanych przez administratora danych mogą być również podwykonawcy – podmioty, z których usług korzysta administrator danych przy przetwarzaniu danych.\n</p><p>\n</p><p>3. Administrator danych może być zobowiązany do udostępnienia danych osobowych na podstawie obowiązujących przepisów prawa, w szczególności do udostępnienia danych osobowych uprawnionym organom lub instytucjom państwowym.\n</p><p>\n</p><p>4. Dane osobowe nie będą przekazywane podmiotom mającym siedzibę poza Europejskim Obszarem Gospodarczym.\n</p><p>\n</p><p>§4 Okres przechowywania danych osobowych\n</p><p>1. Administrator danych przechowuje dane osobowe przez okres obowiązywania umowy zawartej z osobą, której dane dotyczą oraz po zakończeniu jej obowiązywania w celach związanych z dochodzeniem roszczeń związanych z umową, wykonania obowiązków wynikających z obowiązujących przepisów prawa, ale przez czas nie dłuższy niż termin przedawnienia zgodnie z przepisami Kodeksu cywilnego.\n</p><p>\n</p><p>2. Administrator danych przechowuje dane osobowe znajdujące się na dokumentach rozliczeniowych (np. faktury) przez okres czasu wskazany przepisami ustawy o podatku od towarów i usług oraz ustawą o rachunkowości.\n</p><p>\n</p><p>3. Administrator danych przechowuje dane osobowe przetwarzane w celach marketingowych przez okres lat 10, jednak nie dalej niż do momentu wycofania zgody na przetwarzanie danych lub wniesienia sprzeciwu wobec przetwarzania danych.\n</p><p>\n</p><p>4. Administrator danych przechowuje dane osobowe w celach innych niż wskazane w ust. 1-3 przez okres 3 lat, chyba że wcześniej wycofano zgodę na przetwarzanie danych, a przetwarzanie danych nie może być kontynuowane na innej podstawie niż zgoda osoby, której dane dotyczą.\n</p><p>\n</p><p>&nbsp;\n</p><p>§5 Uprawnienia osoby, której dane dotyczą\n</p><p>1. Każda osoba, której dane dotyczą, ma prawo:\n</p><p>\n</p><p>a) dostępu – uzyskania od administratora potwierdzenia, czy przetwarzane są jej dane osobowe. Jeżeli dane o osobie są przetwarzane, jest ona uprawniona do uzyskania dostępu do nich oraz uzyskania następujących informacji: o celach przetwarzania, kategoriach danych osobowych, informacji o odbiorcach lub kategoriach odbiorców, którym dane zostały lub zostaną ujawnione, o okresie przechowywania danych lub o kryteriach ich ustalania, o prawie do żądania sprostowania, usunięcia lub ograniczenia przetwarzania danych osobowych przysługujących osobie, której dane dotyczą, oraz do wniesienia sprzeciwu wobec takiego przetwarzania (art. 15 RODO);\n</p><p>\n</p><p>b) do otrzymania kopii danych – uzyskania kopii danych podlegających przetwarzaniu, przy czym pierwsza kopia jest bezpłatna, a za kolejne kopie administrator może nałożyć opłatę w rozsądnej wysokości wynikającą z kosztów administracyjnych (art. 15 ust. 3 RODO);\n</p><p>\n</p><p>c) do sprostowania – żądania sprostowania dotyczących jej danych osobowych, które są nieprawidłowe lub uzupełnienia niekompletnych danych (art. 16 RODO);\n</p><p>\n</p><p>d) do usunięcia danych – żądania usunięcia jej danych osobowych, jeżeli administrator nie ma już podstawy prawnej do ich przetwarzania lub dane nie są już niezbędne do celów przetwarzania (art. 17 RODO);\n</p><p>\n</p><p>e) do ograniczenia przetwarzania – żądania ograniczenia przetwarzania danych osobowych (art. 18 RODO), gdy:\n</p><p>\n</p><p>osoba, której dane dotyczą, kwestionuje prawidłowość danych osobowych – na okres pozwalający administratorowi sprawdzić prawidłowość tych danych;\n</p><p>przetwarzanie jest niezgodne z prawem, a osoba, której dane dotyczą, sprzeciwia się ich usunięciu, żądając ograniczenia ich wykorzystywania;\n</p><p>administrator nie potrzebuje już tych danych, ale są one potrzebne osobie, której dane dotyczą, do ustalenia, dochodzenia lub obrony roszczeń;\n</p><p>osoba, której dane dotyczą, wniosła sprzeciw wobec przetwarzania – do czasu stwierdzenia, czy prawnie uzasadnione podstawy po stronie administratora są nadrzędne wobec podstaw sprzeciwu osoby, której dane dotyczą\n</p><p>\n</p><p>f) do przenoszenia danych – otrzymania w ustrukturyzowanym, powszechnie używanym formacie nadającym się do odczytu maszynowego danych osobowych jej dotyczących, które dostarczyła administratorowi, oraz żądania przesłania tych danych innemu administratorowi, jeżeli dane są przetwarzane na podstawie zgody osoby, której dane dotyczą lub umowy z nią zawartej oraz jeżeli dane są przetwarzane w sposób zautomatyzowany (art. 20 RODO);\n</p><p>\n</p><p>g) do sprzeciwu – wniesienia sprzeciwu wobec przetwarzania jej danych osobowych w prawnie uzasadnionych celach administratora, z przyczyn związanych z jej szczególną sytuacją, w tym wobec profilowania. Wówczas administrator dokonuje oceny istnienia ważnych prawnie uzasadnionych podstaw do przetwarzania, nadrzędnych wobec interesów, praw i wolności osób, których dane dotyczą, lub podstaw do ustalenia, dochodzenia lub obrony roszczeń. Jeżeli zgodnie z oceną interesy osoby, której dane dotyczą, będą ważniejsze od interesów administratora, administrator będzie zobowiązany zaprzestać przetwarzania danych w tych celach (art. 21 RODO).\n</p><p>\n</p><p>2. Aby skorzystać z wyżej wymienionych praw, osoba, której dane dotyczą, powinna skontaktować się, wykorzystując podane dane kontaktowe, z administratorem i poinformować go, z którego prawa i w jakim zakresie chce skorzystać.\n</p><p>\n</p><p><br></p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-x",
+          "_styles": {
+            "P": {
+              "font-size": "24px",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#26272c",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright © ViDraw 2020. All Rights Reserved. |&nbsp;<a href=\"regulamin.html\">Regulamin </a> | <a href=\"polityka.html\">Polityka prywatności</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-y",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          }
+        }
+      ]
+    },
+    "Strona Główna.html": {
+      "settings": {
+        "title": "Strona Domowa",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 1
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/desktop-computer-beside-analog-camera-3759101-2000x994.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff8e0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": 0.5
+          },
+          "title": "ViDraw",
+          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Learn More</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            "H1": {
+              "color": "#000000",
+              "text-align": "center",
+              "font-size": "100px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            "B": {
+              "font-size": "80px",
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+            }
+          },
+          "_anchor": "header1-t"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/vi-draw-logo-1400x974.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Czym się zajmujemy:",
+          "text": "<p>Realizujemy bardzo różne zlecenia począwszy od Brandingu do Web'u.</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"O nas.html\" data-toolbar=\"-mbrBtnMove\">Więcej</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-u"
+        },
+        {
+          "_params": {
+            "showBullets": true,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgColor": "#efefef",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/jenniferki-logo-2000x1500.png",
+                "thumb": "@PROJECT_PATH@/assets/images/jenniferki-logo-2000x1500-800x600.png",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/jo-1920x1080.png",
+                "thumb": "@PROJECT_PATH@/assets/images/jo-1920x1080-800x450.png",
+                "alt": "",
+                "title": "",
+                "active": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/4d586c92579779.5e4e93f441958-2000x2000.png",
+                "thumb": "@PROJECT_PATH@/assets/images/4d586c92579779.5e4e93f441958-2000x2000-800x800.png",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/fc3dd492577821.5e4e8b2420707-1400x1314.png",
+                "thumb": "@PROJECT_PATH@/assets/images/fc3dd492577821.5e4e8b2420707-1400x1314-800x751.png",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/93f1a792579803.5e4e940f3182e-2000x1400.png",
+                "thumb": "@PROJECT_PATH@/assets/images/93f1a792579803.5e4e940f3182e-2000x1400-800x560.png",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dd0f7592579269.5e4e918db517a-2000x1500.png",
+                "thumb": "@PROJECT_PATH@/assets/images/dd0f7592579269.5e4e918db517a-2000x1500-800x600.png",
+                "alt": "",
+                "title": "",
+                "active": false
+              }
+            ]
+          },
+          "articleLayout": false,
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-v"
+        },
+        {
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": false,
+            "collapsed": true,
+            "transparent": true,
+            "color": "#5bc0de",
+            "hamburgerColor": "#000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Strona Główna.html\">Strona Główna</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"O nas.html\">O nas</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Kontakt.html\">Kontakt</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Pakiety firmowe.html\">Pakiety firmowe</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/iconfinder-facebook-circle-color-107175-128x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://www.facebook.com/ViDraw-103846864540692/",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "home",
+              "family": "MobiriseIcons",
+              "link": "https://www.facebook.com/ViDraw-103846864540692/",
+              "size": 0,
+              "newWindow": true
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000"
+            },
+            ".nav-link": {
+              "font-size": "24px"
+            }
+          },
+          "_anchor": "menu-w"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#26272c",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright © ViDraw 2020. All Rights Reserved. |&nbsp;<a href=\"regulamin.html\">Regulamin </a> | <a href=\"polityka.html\">Polityka prywatności</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-y",
+          "_styles": {
+            "P": {
+              "text-align": "center"
             }
           }
         }
