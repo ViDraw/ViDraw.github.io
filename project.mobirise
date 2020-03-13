@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Strona Główna.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -1100,8 +1100,22 @@
                 "active": false
               },
               {
+                "image": "@PROJECT_PATH@/assets/images/logo-picma2-1920x1080.png",
+                "thumb": "@PROJECT_PATH@/assets/images/logo-picma2-1920x1080-800x450.png",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
                 "image": "@PROJECT_PATH@/assets/images/dd0f7592579269.5e4e918db517a-2000x1500.png",
                 "thumb": "@PROJECT_PATH@/assets/images/dd0f7592579269.5e4e918db517a-2000x1500-800x600.png",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/ff-1920x1080.png",
+                "thumb": "@PROJECT_PATH@/assets/images/ff-1920x1080-800x450.png",
                 "alt": "",
                 "title": "",
                 "active": false
