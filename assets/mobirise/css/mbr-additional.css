@@ -81,3 +81,15 @@
 #footer1-y P {
   text-align: center;
 }
+#header1-12 H1 {
+  text-align: center;
+}
+#footer1-15 P {
+  text-align: center;
+}
+#menu-16 .navbar-toggler {
+  color: #f2f2f2;
+}
+#menu-16 .nav-link {
+  font-size: 24px;
+}
