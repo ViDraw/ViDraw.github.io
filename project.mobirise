@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Strona Główna.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -18,10 +18,10 @@
     "versionFirst": "4.12.2",
     "siteFonts": [],
     "imageResize": true,
-    "uniqCompNum": 35,
+    "uniqCompNum": 38,
     "versionPublish": "4.12.2",
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/untitled-128x122.png",
+    "favicon": "@PROJECT_PATH@/assets/images/dgdgd-128x122.png",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
@@ -55,15 +55,15 @@
         {
           "_params": {
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "showButtons": false,
             "sticky": false,
             "collapsed": true,
-            "transparent": true,
-            "color": "#5bc0de",
-            "hamburgerColor": "#000"
+            "transparent": false,
+            "color": "#ffffff",
+            "hamburgerColor": "#f2f2f2"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Strona Główna.html\">Strona Główna</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"O nas.html\">O nas</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Kontakt.html\">Kontakt</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Pakiety firmowe.html\">Pakiety firmowe</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Strona Główna</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"O nas.html\">O nas</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Kontakt.html\">Kontakt</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Pakiety firmowe.html\">Pakiety firmowe</a></li> ",
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
           "logo": {
             "image": {
@@ -92,7 +92,7 @@
           "_name": "menu",
           "_styles": {
             ".navbar-toggler": {
-              "color": "#000"
+              "color": "#f2f2f2"
             },
             ".nav-link": {
               "font-size": "24px"
@@ -205,26 +205,34 @@
             "overlayOpacity": 0.7
           },
           "title": "Czym się zajmujemy:",
-          "caption": "<p>Realizujemy bardzo różne zlecenia począwszy od Brandingu(logo,ulotki,plakaty,vouchery,wizytówki,zaproszenia,itp) do Web'u(grafiki social media,bannerów,prowadzenia profili social media,etc).Do każdego zlecenia podchodzimy indywidualnie,zrealizujemy twoją wizję,a jeśli jej nie masz to ją stworzymy.</p>",
+          "caption": "<p>Realizujemy bardzo różne zlecenia począwszy od Brandingu(logo,ulotki,plakaty,vouchery,wizytówki,zaproszenia,itp) do Web'u(strony internetowe,grafiki social media,landing page,pop-up,prowadzenia profili social media,etc).Do każdego zlecenia podchodzimy indywidualnie,zrealizujemy twoją wizję,a jeśli jej nie masz to ją stworzymy.Moje <b>hobby</b> jest zarówno moją <b>pracą</b>, dlatego w każdy projekt wkładam całe serce i… wszystkie Twoje uwagi.</p><p><b>To co nas cechuje:</b></p><p>✅Szybki czas realizacji</p><p>✅Kreatywność</p><p>✅Doświadczenie w branży</p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
           ],
           "_name": "content5",
-          "_anchor": "content5-d"
+          "_anchor": "content5-d",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "text-align": "center"
+            }
+          }
         },
         {
           "_params": {
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "showButtons": false,
             "sticky": false,
             "collapsed": true,
-            "transparent": true,
-            "color": "#5bc0de",
-            "hamburgerColor": "#000"
+            "transparent": false,
+            "color": "#ffffff",
+            "hamburgerColor": "#f2f2f2"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Strona Główna.html\">Strona Główna</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"O nas.html\">O nas</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Kontakt.html\">Kontakt</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Pakiety firmowe.html\">Pakiety firmowe</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Strona Główna</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"O nas.html\">O nas</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Kontakt.html\">Kontakt</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Pakiety firmowe.html\">Pakiety firmowe</a></li> ",
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
           "logo": {
             "image": {
@@ -254,7 +262,7 @@
           "_anchor": "menu-g",
           "_styles": {
             ".navbar-toggler": {
-              "color": "#000"
+              "color": "#f2f2f2"
             },
             ".nav-link": {
               "font-size": "24px"
@@ -354,15 +362,15 @@
         {
           "_params": {
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "showButtons": false,
             "sticky": false,
             "collapsed": true,
-            "transparent": true,
-            "color": "#5bc0de",
-            "hamburgerColor": "#000"
+            "transparent": false,
+            "color": "#ffffff",
+            "hamburgerColor": "#f2f2f2"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Strona Główna.html\">Strona Główna</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"O nas.html\">O nas</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Kontakt.html\">Kontakt</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Pakiety firmowe.html\">Pakiety firmowe</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Strona Główna</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"O nas.html\">O nas</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Kontakt.html\">Kontakt</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Pakiety firmowe.html\">Pakiety firmowe</a></li> ",
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
           "logo": {
             "image": {
@@ -391,7 +399,7 @@
           "_name": "menu",
           "_styles": {
             ".navbar-toggler": {
-              "color": "#000"
+              "color": "#f2f2f2"
             },
             ".nav-link": {
               "font-size": "24px"
@@ -503,11 +511,11 @@
           "_params": {
             "showTitle": true,
             "showText": false,
-            "showButtons": false,
-            "showArrow": false,
+            "showButtons": true,
+            "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/desktop-computer-beside-analog-camera-3759101-2000x994.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/cellular-phone-beside-computer-keyboard-3774098-2000x951.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff8e0",
@@ -515,31 +523,22 @@
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#ffffff",
-            "overlayOpacity": 0.5
+            "overlayOpacity": "0.4"
           },
           "title": "ViDraw",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Learn More</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"Pakiety firmowe.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Pakiety Firmowe</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"O nas.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">O nas</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
           ],
           "_name": "header1",
-          "_anchor": "header1-3",
+          "_anchor": "header1-10",
           "_styles": {
             "H1": {
-              "color": "#000000",
-              "text-align": "center",
-              "font-size": "100px",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
-            },
-            "B": {
-              "font-size": "80px",
-              "font-family": "'Ubuntu', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+              "text-align": "center"
             }
           }
         },
@@ -618,7 +617,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/jo-1920x1080-800x450.png",
                 "alt": "",
                 "title": "",
-                "active": true
+                "active": false
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/4d586c92579779.5e4e93f441958-2000x2000.png",
@@ -642,22 +641,15 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/logo-picma2-1920x1080.png",
-                "thumb": "@PROJECT_PATH@/assets/images/logo-picma2-1920x1080-800x450.png",
-                "alt": "",
-                "title": "",
-                "active": false
-              },
-              {
                 "image": "@PROJECT_PATH@/assets/images/dd0f7592579269.5e4e918db517a-2000x1500.png",
                 "thumb": "@PROJECT_PATH@/assets/images/dd0f7592579269.5e4e918db517a-2000x1500-800x600.png",
                 "alt": "",
                 "title": "",
-                "active": false
+                "active": true
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/ff-1920x1080.png",
-                "thumb": "@PROJECT_PATH@/assets/images/ff-1920x1080-800x450.png",
+                "image": "@PROJECT_PATH@/assets/images/kawa-1-2000x1280.png",
+                "thumb": "@PROJECT_PATH@/assets/images/kawa-1-2000x1280-800x512.png",
                 "alt": "",
                 "title": "",
                 "active": false
@@ -701,15 +693,15 @@
         {
           "_params": {
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "showButtons": false,
             "sticky": false,
             "collapsed": true,
-            "transparent": true,
-            "color": "#5bc0de",
-            "hamburgerColor": "#000"
+            "transparent": false,
+            "color": "#ffffff",
+            "hamburgerColor": "#f2f2f2"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Strona Główna.html\">Strona Główna</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"O nas.html\">O nas</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Kontakt.html\">Kontakt</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Pakiety firmowe.html\">Pakiety firmowe</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Strona Główna</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"O nas.html\">O nas</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Kontakt.html\">Kontakt</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Pakiety firmowe.html\">Pakiety firmowe</a></li> ",
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
           "logo": {
             "image": {
@@ -739,7 +731,7 @@
           "_anchor": "menu-g",
           "_styles": {
             ".navbar-toggler": {
-              "color": "#000"
+              "color": "#f2f2f2"
             },
             ".nav-link": {
               "font-size": "24px"
@@ -757,15 +749,15 @@
         {
           "_params": {
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "showButtons": false,
             "sticky": false,
             "collapsed": true,
-            "transparent": true,
-            "color": "#5bc0de",
-            "hamburgerColor": "#000"
+            "transparent": false,
+            "color": "#ffffff",
+            "hamburgerColor": "#f2f2f2"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Strona Główna.html\">Strona Główna</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"O nas.html\">O nas</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Kontakt.html\">Kontakt</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Pakiety firmowe.html\">Pakiety firmowe</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Strona Główna</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"O nas.html\">O nas</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Kontakt.html\">Kontakt</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Pakiety firmowe.html\">Pakiety firmowe</a></li> ",
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
           "logo": {
             "image": {
@@ -794,7 +786,7 @@
           "_name": "menu",
           "_styles": {
             ".navbar-toggler": {
-              "color": "#000"
+              "color": "#f2f2f2"
             },
             ".nav-link": {
               "font-size": "24px"
@@ -857,15 +849,15 @@
         {
           "_params": {
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "showButtons": false,
             "sticky": false,
             "collapsed": true,
-            "transparent": true,
-            "color": "#5bc0de",
-            "hamburgerColor": "#000"
+            "transparent": false,
+            "color": "#ffffff",
+            "hamburgerColor": "#f2f2f2"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Strona Główna.html\">Strona Główna</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"O nas.html\">O nas</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Kontakt.html\">Kontakt</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Pakiety firmowe.html\">Pakiety firmowe</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Strona Główna</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"O nas.html\">O nas</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Kontakt.html\">Kontakt</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Pakiety firmowe.html\">Pakiety firmowe</a></li> ",
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
           "logo": {
             "image": {
@@ -894,7 +886,7 @@
           "_name": "menu",
           "_styles": {
             ".navbar-toggler": {
-              "color": "#000"
+              "color": "#f2f2f2"
             },
             ".nav-link": {
               "font-size": "24px"
@@ -918,265 +910,6 @@
               "text-align": "center"
             }
           }
-        },
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#26272c",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "Copyright © ViDraw 2020. All Rights Reserved. |&nbsp;<a href=\"regulamin.html\">Regulamin </a> | <a href=\"polityka.html\">Polityka prywatności</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-y",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            }
-          }
-        }
-      ]
-    },
-    "Strona Główna.html": {
-      "settings": {
-        "title": "Strona Domowa",
-        "meta_descr": "",
-        "header_custom": "",
-        "footer_custom": "",
-        "html_before": "",
-        "order": 1
-      },
-      "components": [
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": false,
-            "showButtons": false,
-            "showArrow": false,
-            "contentAlign": "center",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/desktop-computer-beside-analog-camera-3759101-2000x994.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff8e0",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#ffffff",
-            "overlayOpacity": 0.5
-          },
-          "title": "ViDraw",
-          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Learn More</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header1",
-          "_styles": {
-            "H1": {
-              "color": "#000000",
-              "text-align": "center",
-              "font-size": "100px",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
-            },
-            "B": {
-              "font-size": "80px",
-              "font-family": "'Ubuntu', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
-            }
-          },
-          "_anchor": "header1-t"
-        },
-        {
-          "_inherit": "msg-box5",
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": true,
-            "inverse": true,
-            "imageSize": 50,
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/vi-draw-logo-1400x974.png",
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "Czym się zajmujemy:",
-          "text": "<p>Realizujemy bardzo różne zlecenia począwszy od Brandingu do Web'u.</p>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"O nas.html\" data-toolbar=\"-mbrBtnMove\">Więcej</a>",
-          "_name": "msg-box4",
-          "_anchor": "msg-box4-u"
-        },
-        {
-          "_params": {
-            "showBullets": true,
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "bgColor": "#efefef",
-            "images": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/jenniferki-logo-2000x1500.png",
-                "thumb": "@PROJECT_PATH@/assets/images/jenniferki-logo-2000x1500-800x600.png",
-                "alt": "",
-                "title": "",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/jo-1920x1080.png",
-                "thumb": "@PROJECT_PATH@/assets/images/jo-1920x1080-800x450.png",
-                "alt": "",
-                "title": "",
-                "active": true
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/4d586c92579779.5e4e93f441958-2000x2000.png",
-                "thumb": "@PROJECT_PATH@/assets/images/4d586c92579779.5e4e93f441958-2000x2000-800x800.png",
-                "alt": "",
-                "title": "",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/fc3dd492577821.5e4e8b2420707-1400x1314.png",
-                "thumb": "@PROJECT_PATH@/assets/images/fc3dd492577821.5e4e8b2420707-1400x1314-800x751.png",
-                "alt": "",
-                "title": "",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/93f1a792579803.5e4e940f3182e-2000x1400.png",
-                "thumb": "@PROJECT_PATH@/assets/images/93f1a792579803.5e4e940f3182e-2000x1400-800x560.png",
-                "alt": "",
-                "title": "",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/logo-picma2-1920x1080.png",
-                "thumb": "@PROJECT_PATH@/assets/images/logo-picma2-1920x1080-800x450.png",
-                "alt": "",
-                "title": "",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/dd0f7592579269.5e4e918db517a-2000x1500.png",
-                "thumb": "@PROJECT_PATH@/assets/images/dd0f7592579269.5e4e918db517a-2000x1500-800x600.png",
-                "alt": "",
-                "title": "",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/ff-1920x1080.png",
-                "thumb": "@PROJECT_PATH@/assets/images/ff-1920x1080-800x450.png",
-                "alt": "",
-                "title": "",
-                "active": false
-              }
-            ]
-          },
-          "articleLayout": false,
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery1",
-          "_anchor": "gallery1-v"
-        },
-        {
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "showButtons": false,
-            "sticky": false,
-            "collapsed": true,
-            "transparent": true,
-            "color": "#5bc0de",
-            "hamburgerColor": "#000"
-          },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Strona Główna.html\">Strona Główna</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"O nas.html\">O nas</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Kontakt.html\">Kontakt</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Pakiety firmowe.html\">Pakiety firmowe</a></li>",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/iconfinder-facebook-circle-color-107175-128x128.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://www.facebook.com/ViDraw-103846864540692/",
-              "title": ""
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "linkInNewWindow": false,
-              "name": "home",
-              "family": "MobiriseIcons",
-              "link": "https://www.facebook.com/ViDraw-103846864540692/",
-              "size": 0,
-              "newWindow": true
-            }
-          },
-          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_styles": {
-            ".navbar-toggler": {
-              "color": "#000"
-            },
-            ".nav-link": {
-              "font-size": "24px"
-            }
-          },
-          "_anchor": "menu-w"
         },
         {
           "_params": {
