@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Strona Główna.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -606,15 +606,15 @@
             "bgColor": "#efefef",
             "images": [
               {
-                "image": "@PROJECT_PATH@/assets/images/jenniferki-logo-2000x1500.png",
-                "thumb": "@PROJECT_PATH@/assets/images/jenniferki-logo-2000x1500-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/mockup-2000x1500.png",
+                "thumb": "@PROJECT_PATH@/assets/images/mockup-2000x1500-800x600.png",
                 "alt": "",
                 "title": "",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/jo-1920x1080.png",
-                "thumb": "@PROJECT_PATH@/assets/images/jo-1920x1080-800x450.png",
+                "image": "@PROJECT_PATH@/assets/images/wizyowka-2000x1334.png",
+                "thumb": "@PROJECT_PATH@/assets/images/wizyowka-2000x1334-800x534.png",
                 "alt": "",
                 "title": "",
                 "active": false
@@ -627,15 +627,8 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/fc3dd492577821.5e4e8b2420707-1400x1314.png",
-                "thumb": "@PROJECT_PATH@/assets/images/fc3dd492577821.5e4e8b2420707-1400x1314-800x751.png",
-                "alt": "",
-                "title": "",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/93f1a792579803.5e4e940f3182e-2000x1400.png",
-                "thumb": "@PROJECT_PATH@/assets/images/93f1a792579803.5e4e940f3182e-2000x1400-800x560.png",
+                "image": "@PROJECT_PATH@/assets/images/kawa-1-2000x1280.png",
+                "thumb": "@PROJECT_PATH@/assets/images/kawa-1-2000x1280-800x512.png",
                 "alt": "",
                 "title": "",
                 "active": false
@@ -648,8 +641,29 @@
                 "active": true
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/kawa-1-2000x1280.png",
-                "thumb": "@PROJECT_PATH@/assets/images/kawa-1-2000x1280-800x512.png",
+                "image": "@PROJECT_PATH@/assets/images/jo-1920x1080.png",
+                "thumb": "@PROJECT_PATH@/assets/images/jo-1920x1080-800x450.png",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/93f1a792579803.5e4e940f3182e-2000x1400.png",
+                "thumb": "@PROJECT_PATH@/assets/images/93f1a792579803.5e4e940f3182e-2000x1400-800x560.png",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/jenniferki-logo-2000x1500.png",
+                "thumb": "@PROJECT_PATH@/assets/images/jenniferki-logo-2000x1500-800x600.png",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/fc3dd492577821.5e4e8b2420707-1400x1314.png",
+                "thumb": "@PROJECT_PATH@/assets/images/fc3dd492577821.5e4e8b2420707-1400x1314-800x751.png",
                 "alt": "",
                 "title": "",
                 "active": false
@@ -1048,15 +1062,15 @@
             "bgColor": "#efefef",
             "images": [
               {
-                "image": "@PROJECT_PATH@/assets/images/jenniferki-logo-2000x1500.png",
-                "thumb": "@PROJECT_PATH@/assets/images/jenniferki-logo-2000x1500-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/mockup-2000x1500.png",
+                "thumb": "@PROJECT_PATH@/assets/images/mockup-2000x1500-800x600.png",
                 "alt": "",
                 "title": "",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/jo-1920x1080.png",
-                "thumb": "@PROJECT_PATH@/assets/images/jo-1920x1080-800x450.png",
+                "image": "@PROJECT_PATH@/assets/images/wizyowka-2000x1334.png",
+                "thumb": "@PROJECT_PATH@/assets/images/wizyowka-2000x1334-800x534.png",
                 "alt": "",
                 "title": "",
                 "active": false
@@ -1069,15 +1083,8 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/fc3dd492577821.5e4e8b2420707-1400x1314.png",
-                "thumb": "@PROJECT_PATH@/assets/images/fc3dd492577821.5e4e8b2420707-1400x1314-800x751.png",
-                "alt": "",
-                "title": "",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/93f1a792579803.5e4e940f3182e-2000x1400.png",
-                "thumb": "@PROJECT_PATH@/assets/images/93f1a792579803.5e4e940f3182e-2000x1400-800x560.png",
+                "image": "@PROJECT_PATH@/assets/images/kawa-1-2000x1280.png",
+                "thumb": "@PROJECT_PATH@/assets/images/kawa-1-2000x1280-800x512.png",
                 "alt": "",
                 "title": "",
                 "active": false
@@ -1090,8 +1097,29 @@
                 "active": true
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/kawa-1-2000x1280.png",
-                "thumb": "@PROJECT_PATH@/assets/images/kawa-1-2000x1280-800x512.png",
+                "image": "@PROJECT_PATH@/assets/images/jo-1920x1080.png",
+                "thumb": "@PROJECT_PATH@/assets/images/jo-1920x1080-800x450.png",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/93f1a792579803.5e4e940f3182e-2000x1400.png",
+                "thumb": "@PROJECT_PATH@/assets/images/93f1a792579803.5e4e940f3182e-2000x1400-800x560.png",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/jenniferki-logo-2000x1500.png",
+                "thumb": "@PROJECT_PATH@/assets/images/jenniferki-logo-2000x1500-800x600.png",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/fc3dd492577821.5e4e8b2420707-1400x1314.png",
+                "thumb": "@PROJECT_PATH@/assets/images/fc3dd492577821.5e4e8b2420707-1400x1314-800x751.png",
                 "alt": "",
                 "title": "",
                 "active": false
