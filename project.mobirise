@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Strona Główna.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -615,6 +615,13 @@
               {
                 "image": "@PROJECT_PATH@/assets/images/wizyowka-2000x1334.png",
                 "thumb": "@PROJECT_PATH@/assets/images/wizyowka-2000x1334-800x534.png",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/logo-jaboski-2000x1280.png",
+                "thumb": "@PROJECT_PATH@/assets/images/logo-jaboski-2000x1280-800x512.png",
                 "alt": "",
                 "title": "",
                 "active": false
